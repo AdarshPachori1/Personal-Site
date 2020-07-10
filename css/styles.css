@@ -38,6 +38,15 @@ hr {
   margin: 80px auto;
 }
 
+a {
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
 /* CLASS SELECTORS */
 .top {
   padding-top: 60px;
@@ -58,8 +67,6 @@ hr {
   text-align: center;
   background-color: #66BFBF;
 }
-
-.mountainOne {}
 
 .cloudOne {
   position: absolute;
